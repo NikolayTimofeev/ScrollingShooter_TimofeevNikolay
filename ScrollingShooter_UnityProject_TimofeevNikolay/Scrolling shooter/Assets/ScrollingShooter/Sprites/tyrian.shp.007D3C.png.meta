@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 0d2475f412d0fac428ca214af111b8be
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tyrian.shp.007D3C_18
+    21300002: tyrian.shp.007D3C_19
+    21300004: tyrian.shp.007D3C_20
+    21300006: tyrian.shp.007D3C_21
+    21300008: tyrian.shp.007D3C_22
+    21300010: tyrian.shp.007D3C_27
+    21300012: tyrian.shp.007D3C_28
+    21300014: tyrian.shp.007D3C_29
+    21300016: tyrian.shp.007D3C_30
+    21300018: tyrian.shp.007D3C_31
+    21300020: tyrian.shp.007D3C_36
+    21300022: tyrian.shp.007D3C_37
+    21300024: tyrian.shp.007D3C_38
+    21300026: tyrian.shp.007D3C_39
+    21300028: tyrian.shp.007D3C_40
+    21300030: tyrian.shp.007D3C_45
+    21300032: tyrian.shp.007D3C_46
+    21300034: tyrian.shp.007D3C_47
+    21300036: tyrian.shp.007D3C_48
+    21300038: tyrian.shp.007D3C_49
+    21300040: tyrian.shp.007D3C_54
+    21300042: tyrian.shp.007D3C_55
+    21300044: tyrian.shp.007D3C_56
+    21300046: tyrian.shp.007D3C_57
+    21300048: tyrian.shp.007D3C_58
+    21300050: tyrian.shp.007D3C_63
+    21300052: tyrian.shp.007D3C_64
+    21300054: tyrian.shp.007D3C_65
+    21300056: tyrian.shp.007D3C_66
+    21300058: tyrian.shp.007D3C_67
+    21300060: tyrian.shp.007D3C_0
+    21300062: tyrian.shp.007D3C_1
+    21300064: tyrian.shp.007D3C_2
+    21300066: tyrian.shp.007D3C_3
+    21300068: tyrian.shp.007D3C_17
+    21300070: tyrian.shp.007D3C_23
+    21300072: tyrian.shp.007D3C_24
+    21300074: tyrian.shp.007D3C_25
+    21300076: tyrian.shp.007D3C_16
+    21300078: tyrian.shp.007D3C_4
+    21300080: tyrian.shp.007D3C_5
+    21300082: tyrian.shp.007D3C_6
+    21300084: tyrian.shp.007D3C_7
+    21300086: tyrian.shp.007D3C_8
+    21300088: tyrian.shp.007D3C_9
+    21300090: tyrian.shp.007D3C_10
+    21300092: tyrian.shp.007D3C_11
+    21300094: tyrian.shp.007D3C_12
+    21300096: tyrian.shp.007D3C_13
+    21300098: tyrian.shp.007D3C_14
+    21300100: tyrian.shp.007D3C_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tyrian.shp.007D3C_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 45
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 31
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 141
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 127
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 113
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 141
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 127
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 113
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 98
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 84
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 70
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 28
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tyrian.shp.007D3C_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: _ship
+  userData: 
