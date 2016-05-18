@@ -28,16 +28,13 @@ Web Build/
 
 *.svd
 *.userprefs
-#*.csproj
 *.pidb
 *.suo
-#*.sln
 *.user
 *.unityproj
 *.booproj
 *.apk
 *.obb
-*.unity3d
 
 
 # ================ #
@@ -46,8 +43,6 @@ Web Build/
 
 .DS_Store
 .DS_Store?
-._*
-.Spotlight-V100
 .Trashes
 Icon?
 ehthumbs.db
